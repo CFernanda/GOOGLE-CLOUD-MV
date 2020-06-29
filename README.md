@@ -105,17 +105,16 @@ En las familias N1 y E2, se encuentran disponibles tipos de máquinas de núcleo
 Para crear una máquina virtual en la plataforma GOOGLE CLOUD, lo primero que se hace es crear una cuenta que le permita hacer uso de los beneficios que la plataforma ofrece.
 
 **Creación de la cuenta**
-
 1. Ingresar a la pagina de GOOGLE CLOUD mediante el siguiente link. https://cloud.google.com/ aparece la pantalla que se muestra a continuación 
 
 ![img1GC.png](https://github.com/CFernanda/GOOGLE-CLOUD-MV/blob/master/Imagenes/img1GC.png) 
 
-- 2. Para iniciar debemos dar click sobre **Empezar Gratis**, de abrirá una nueva ventana con un formulario del primer de dos paso que se debe seguir.
+2. Para iniciar debemos dar click sobre **Empezar Gratis**, de abrirá una nueva ventana con un formulario del primer de dos paso que se debe seguir.
 ![img2GC.png](https://github.com/CFernanda/GOOGLE-CLOUD-MV/blob/master/Imagenes/img2GC.png)
 
 Se ingresa datos de la cuenta como nombre, correo el país y se aceptan las condiciones.
 
--3. Al dar click en **continuar** se abrirá otra ventana con el paso 2 se inresa los datos del Cliente y adicional pide un número de tarjeta de crédito que sirve solo para verificar la cuenta y permitirá trabajar con la cuenta de forma gratuita durante 12 meses.
+3. Al dar click en **continuar** se abrirá otra ventana con el paso 2 se inresa los datos del Cliente y adicional pide un número de tarjeta de crédito que sirve solo para verificar la cuenta y permitirá trabajar con la cuenta de forma gratuita durante 12 meses.
 
 ![paso2.JPG](https://github.com/CFernanda/GOOGLE-CLOUD-MV/blob/master/Imagenes/paso2.JPG) 
 
@@ -127,16 +126,16 @@ Al dar click en **Iniciar versión de prueba gratuita**  se abrirá una nueva ve
 
 **Creación de Máquina Virtual**
 
-- 1. En la página de Inicio de dirige al **Menú de Navegación**, que se encuentra en la parte superior izquierda de la ventana.
-- 2. se busca la pestaña **Compute** y en ella **Compute Engine**  se despliegan opciones y se debe elegir la primera **Instancias de VM**
+1. En la página de Inicio de dirige al **Menú de Navegación**, que se encuentra en la parte superior izquierda de la ventana.
+2. se busca la pestaña **Compute** y en ella **Compute Engine**  se despliegan opciones y se debe elegir la primera **Instancias de VM**
 
 ![Img4Compute.png](https://github.com/CFernanda/GOOGLE-CLOUD-MV/blob/master/Imagenes/Img4Compute.png) 
 
-- 3. Se abrirá una nueva ventana en la que se debe escoger **Crear**.
+3. Se abrirá una nueva ventana en la que se debe escoger **Crear**.
 
 ![Img5Crear.png](https://github.com/CFernanda/GOOGLE-CLOUD-MV/blob/master/Imagenes/Img5Crear.png) 
 
-- 4. Una nueva pantalla llamada **Crear una nueva Instancia**  en la que se especificarán los datos de la máquina que se creará.
+4. Una nueva pantalla llamada **Crear una nueva Instancia**  en la que se especificarán los datos de la máquina que se creará.
  - El nombre de la maquina debe tener minusculas
  - Se escoge todos los detalles dependiendo de las necesidades para crear la máquina, si se requiere se puede cambiar el sistema operativo , la versión y su tamaño,
 
@@ -150,11 +149,11 @@ Al dar click en **Iniciar versión de prueba gratuita**  se abrirá una nueva ve
 
  ![Img6DetallesMaquina2.JPG](https://github.com/CFernanda/GOOGLE-CLOUD-MV/blob/master/Imagenes/Img6DetallesMaquina2.JPG) 
  
-- 5. Se abre una nueva ventana en la que se mostrará el proceso que lleva a cabo la máquina virtual cuando pase a verde la máquina estará lista para utilizarla.
+5. Se abre una nueva ventana en la que se mostrará el proceso que lleva a cabo la máquina virtual cuando pase a verde la máquina estará lista para utilizarla.
   
   ![Img9MaquinasCreadas.png](https://github.com/CFernanda/GOOGLE-CLOUD-MV/blob/master/Imagenes/Img9MaquinasCreadas.png)
   
- - 6. Se debe dar Click sobre SSH y s escoge la primera opción, seguido se abrirá la terminal de la Máquina creada en el sistema operativo Ubuntu.
+6. Se debe dar Click sobre SSH y s escoge la primera opción, seguido se abrirá la terminal de la Máquina creada en el sistema operativo Ubuntu.
  
  ![MaquinaUbuntu.JPG)](https://github.com/CFernanda/GOOGLE-CLOUD-MV/blob/master/Imagenes/MaquinaUbuntu.JPG)
  
