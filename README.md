@@ -96,12 +96,42 @@ Al dar click en **Iniciar versión de prueba gratuita**  se abrirá una nueva ve
 ![Img5Crear.png](https://github.com/CFernanda/GOOGLE-CLOUD-MV/blob/master/Imagenes/Img5Crear.png) 
 
 - 4. Una nueva pantalla llamada **Crear una nueva Instancia**  en la que se especificarán los datos de la máquina que se creará.
+ - El nombre de la maquina debe tener minusculas
+ - Se escoge todos los detalles dependiendo de las necesidades para crear la máquina, si se requiere se puede cambiar el sistema operativo , la versión y su tamaño,
 
-![Img6DetallesMaquina1.JPG](https://github.com/CFernanda/GOOGLE-CLOUD-MV/blob/master/Imagenes/Img6DetallesMaquina1.JPG) 
+ ![Img6DetallesMaquina1.JPG](https://github.com/CFernanda/GOOGLE-CLOUD-MV/blob/master/Imagenes/Img6DetallesMaquina1.JPG) 
+ 
+ 
+  ![tiposdesistemasoperativos.png](https://github.com/CFernanda/GOOGLE-CLOUD-MV/blob/master/Imagenes/Img7tiposdesistemasoperativos.png)
+  
 
-![Img6DetallesMaquina2.JPG](https://github.com/CFernanda/GOOGLE-CLOUD-MV/blob/master/Imagenes/Img6DetallesMaquina2.JPG) 
+ Se debe dar Click en Crear y se procesará la  nueva máquina virtual en este caso se escogió el sitema operativo UBUNTU.
+
+ ![Img6DetallesMaquina2.JPG](https://github.com/CFernanda/GOOGLE-CLOUD-MV/blob/master/Imagenes/Img6DetallesMaquina2.JPG) 
+ 
+- 5. Se abre una nueva ventana en la que se mostrará el proceso que lleva a cabo la máquina virtual cuando pase a verde la máquina estará lista para utilizarla.
+  
+  ![Img9MaquinasCreadas.png](https://github.com/CFernanda/GOOGLE-CLOUD-MV/blob/master/Imagenes/Img9MaquinasCreadas.png)
+  
+ - 6. Se debe dar Click sobre SSH y s escoge la primera opción, seguido se abrirá la terminal de la Máquina creada en el sistema operativo Ubuntu.
+ 
+ ![MaquinaUbuntu.JPG)](https://github.com/CFernanda/GOOGLE-CLOUD-MV/blob/master/Imagenes/MaquinaUbuntu.JPG)
+ 
+ 
+ 
+ ## Bibliografia
+
+* DoctorMetrics. (13 de Junio de 2018). Obtenido de https://www.doctormetrics.com/google-cloud-platform/#:~:text=potencial%20y%20versatilidad.-,Introducci%C3%B3n,como%20Youtube%20o%20Google%20Search.&text=Esta%20infraestructura%20se%20divide%20en%20regiones%20y%20zonas.
+* Ibermatica. (7 de mayo de 2019). Obtenido de https://www.ibermatica365.com/microsoft-azure-que-son-las-maquinas-virtuales/
+* GOOGLECLOUD.https://cloud.google.com/
+
+ 
+ 
 
 
+
+
+- 
 
 
 
