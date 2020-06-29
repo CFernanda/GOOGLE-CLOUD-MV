@@ -103,9 +103,10 @@ En las familias N1 y E2, se encuentran disponibles tipos de máquinas de núcleo
 ## Manual de Usuario
 
 Para crear una máquina virtual en la plataforma GOOGLE CLOUD, lo primero que se hace es crear una cuenta que le permita hacer uso de los beneficios que la plataforma ofrece.
+
 **Creación de la cuenta**
 
-- 1. Ingresar a la pagina de GOOGLE CLOUD mediante el siguiente link. https://cloud.google.com/ aparece la pantalla que se muestra a continuación 
+1. Ingresar a la pagina de GOOGLE CLOUD mediante el siguiente link. https://cloud.google.com/ aparece la pantalla que se muestra a continuación 
 
 ![img1GC.png](https://github.com/CFernanda/GOOGLE-CLOUD-MV/blob/master/Imagenes/img1GC.png) 
 
