@@ -10,7 +10,8 @@ Generar máquinas virtuales con la utilización de la plataforma de GOOGLE CLOUD
 
 ## Marco Teórico
  
-**GOOGLE CLOUD**
+**Google Cloud**
+
 Es una suite que contiene diversos servicios que funcionan en la misma infraestructura que utiliza Google de manera interna.
 El conjunto de herramientas que proporciona la suite abarca Cloud Computing, Networking, Data Storage, Data Analytics, Machine learning, etc. 
 Provee los productos, servicios y herramientas para poder diseñar, realizar testing y lanzar las aplicaciones en la plataforma garantizando una gran escalabilidad y seguridad gracias al diseño de la infraestructura proporcionada por Google.
@@ -18,62 +19,78 @@ Ofrece más de 90 servicios de tecnología de la información, que las empresas,
 
 Esta infraestructura se divide en regiones y zonas. Al trabajar en distintas regiones se debe tener en cuenta el coste adicional para el tráfico de red entre éstas. Este enlace contiene información más detallada sobre este tema.
 Dentro la variedad de productos y servicios dentro de la plataforma, vamos a mencionar las siguientes categorías:
-- Computing   
-- Networking   
-- Storage   
-- Big data   
+
+- Computing  
+
+- Networking 
+
+- Storage 
+
+- Big data 
+
 - Machine learning
 
 ![google-cloud-platform.png](https://github.com/CFernanda/GOOGLE-CLOUD-MV/blob/master/Imagenes/google-cloud-platform.png)  
 
-##  Ventajas
-Elegir Google Cloud
-Motivos para elegirnos
-Confianza y seguridad
-Mantén tus datos protegidos y asegúrate de que cumplen las normativas pertinentes
-Nube abierta
-Escala con una tecnología abierta y flexible
-Infraestructura mundial
-Desarrolla sobre la misma infraestructura que usa Google
-Informes de analistas
-Cómo destaca Google Cloud
-Testimonios de clientes
-Descubre cómo usan Google Cloud las empresas
-Partners
-Aprovecha al máximo nuestro ecosistema mundial de expertos en la nube
-Blog de Google Cloud
-Lee las últimas noticias y novedades sobre nuestros productos
-Eventos
-Participa en eventos y descubre más información sobre Google Cloud--
+***Ventajas***
 
-**Precios de Google Cloud**
-Google no tiene costes por adelantado, 
-Servicios de pago por uso, ni comisiones por cancelación. 
-Google ofrece descuentos en los precios y ofrece innovaciones como el tamaño adecuado.
-Los clientes también pueden utilizar una calculadora de precios a través de su sitio web. 
-Esta herramienta ayuda a los clientes a anticiparse a los costes. 
-Los precios varían según el servicio individual, por lo que también querrá ver en toda la plataforma cada una de las ofertas y evaluar los precios en consecuencia.
+**Confianza y seguridad:** Mantiene los datos protegidos y asegúrate de que cumplen las normativas pertinentes
+
+**Nube abierta:** Escala con una tecnología abierta y flexible
+
+**Infraestructura mundial:** Desarrolla sobre la misma infraestructura que usa Google
+
+**Informes de analistas:** Cómo destaca Google Cloud
+
+**Testimonios de clientes:** Descubre cómo usan Google Cloud las empresas
+
+**Partners:** Aprovecha al máximo nuestro ecosistema mundial de expertos en la nube
+
+**Blog de Google Cloud:** Lee las últimas noticias y novedades sobre nuestros productos.
+
+**Eventos:** Participa en eventos y descubre más información sobre Google Cloud--
+
+***Precios de Google Cloud***
+
+- Google no tiene costos por adelantado.
+- Servicios de pago por uso, ni comisiones por cancelación. 
+- Google ofrece descuentos en los precios y ofrece innovaciones como el tamaño adecuado.
+- Los clientes también pueden utilizar una calculadora de precios a través de su sitio web. 
+- Esta herramienta ayuda a los clientes a anticiparse a los costes. 
+- Los precios varían según el servicio individual, por lo que también querrá ver en toda la plataforma cada una de las ofertas y evaluar los precios en consecuencia.
 
 **Tipos de Maquina que ofrece Google Cloud** 
-Varían según la familia, cada familia se selecciona para tipos específicos de cargas de trabajo. 
 
+Varían según la familia, cada familia se selecciona para tipos específicos de cargas de trabajo. 
 En Compute Engine, se ofrecen los siguientes tipos de máquinas principales:
 
--**De uso general**
+**De uso general**
+
 Ofrecen la mejor relación entre precio y rendimiento para una variedad de cargas de trabajo.
+
 **Máquinas E2 son VM**
+
 Con costo optimizado que ofrecen hasta 16 CPU virtuales con hasta 8 GB de memoria por CPU virtual,estas máquinas tienen una plataforma de CPU predefinida que ejecuta un procesador Intel o AMD EPYC Rome de segunda generación. 
 Las VM E2 proporcionan una variedad de recursos de procesamiento al menor precio disponible en Compute Engine, en especial cuando se combinan con los descuentos por compromiso de uso.
+
 **Máquinas N2**
+
 Ofrecen hasta 80 CPU virtuales, 8 GB de memoria por CPU virtual y están disponibles en las plataformas de CPU de Cascade Lake de Intel.
+
 **Máquinas N2D**
+
 Ofrecen hasta 224 CPU virtuales y 8 GB de memoria por CPU virtual y están disponibles en las plataformas de AMD EPYC Rome de segunda generación.
+
 **Máquinas N1**
+
 Ofrecen hasta 96 CPU virtuales, 6.5 GB de memoria por CPU virtual y están disponibles en las plataformas de CPU Sandy Bridge, Ivy Bridge, Haswell, Broadwell y Skylake de Intel.
+
 **Máquinas con optimización de memoria**
+
 Son ideales para cargas de trabajo que requieren mucha memoria, ya que ofrecen más memoria por núcleo que otros tipos de máquinas (hasta 12 TB de memoria).
 
 **Máquinas con optimización de procesamiento**
+
 Ofrecen el mayor rendimiento por núcleo en Compute Engine y están optimizados para cargas de trabajo de procesamiento intensivo. Ofrece procesadores escalables Intel (Cascade Lake) y turbo de núcleo completo continuo de hasta 3.8 GHz.
 
 En las familias N1 y E2, se encuentran disponibles tipos de máquinas de núcleo compartido. Estos tipos de máquinas comparten un núcleo físico. Este puede ser un método rentable para ejecutar aplicaciones pequeñas que no requieren muchos recursos.
@@ -82,7 +99,7 @@ En las familias N1 y E2, se encuentran disponibles tipos de máquinas de núcleo
 **N1:** Los tipos de máquinas de núcleo compartido f1-micro y g1-small tienen hasta 1 CPU virtual disponible para períodos breves de picos de actividad.
 
 
-## MANUAL DE USUARIO
+## Manual de Usuario
 
 Para crear una máquina virtual en la plataforma GOOGLE CLOUD, lo primero que se hace es crear una cuenta que le permita hacer uso de los beneficios que la plataforma ofrece.
 **Creación de la cuenta**
