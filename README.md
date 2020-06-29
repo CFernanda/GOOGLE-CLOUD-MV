@@ -97,7 +97,9 @@ Al dar click en **Iniciar versión de prueba gratuita**  se abrirá una nueva ve
 
 - 4. Una nueva pantalla llamada **Crear una nueva Instancia**  en la que se especificarán los datos de la máquina que se creará.
 
-![Img6DetallesMaquina1.png](https://github.com/CFernanda/GOOGLE-CLOUD-MV/blob/master/Imagenes/Img6DetallesMaquina1.png) 
+![Img6DetallesMaquina1.JPG](https://github.com/CFernanda/GOOGLE-CLOUD-MV/blob/master/Imagenes/Img6DetallesMaquina1.JPG) 
+
+![Img6DetallesMaquina2.JPG](https://github.com/CFernanda/GOOGLE-CLOUD-MV/blob/master/Imagenes/Img6DetallesMaquina2.JPG) 
 
 
 
