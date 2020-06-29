@@ -32,25 +32,25 @@ Dentro la variedad de productos y servicios dentro de la plataforma, vamos a men
 
 ![google-cloud-platform.png](https://github.com/CFernanda/GOOGLE-CLOUD-MV/blob/master/Imagenes/google-cloud-platform.png)  
 
-***Ventajas***
+**Ventajas**
 
-**Confianza y seguridad:** Mantiene los datos protegidos y asegúrate de que cumplen las normativas pertinentes
+- **Confianza y seguridad:** Mantiene los datos protegidos y asegúrate de que cumplen las normativas pertinentes
 
-**Nube abierta:** Escala con una tecnología abierta y flexible
+- **Nube abierta:** Escala con una tecnología abierta y flexible
 
-**Infraestructura mundial:** Desarrolla sobre la misma infraestructura que usa Google
+- **Infraestructura mundial:** Desarrolla sobre la misma infraestructura que usa Google
 
-**Informes de analistas:** Cómo destaca Google Cloud
+- **Informes de analistas:** Cómo destaca Google Cloud
 
-**Testimonios de clientes:** Descubre cómo usan Google Cloud las empresas
+- **Testimonios de clientes:** Descubre cómo usan Google Cloud las empresas
 
-**Partners:** Aprovecha al máximo nuestro ecosistema mundial de expertos en la nube
+- **Partners:** Aprovecha al máximo nuestro ecosistema mundial de expertos en la nube
 
-**Blog de Google Cloud:** Lee las últimas noticias y novedades sobre nuestros productos.
+- **Blog de Google Cloud:** Lee las últimas noticias y novedades sobre nuestros productos.
 
-**Eventos:** Participa en eventos y descubre más información sobre Google Cloud--
+. **Eventos:** Participa en eventos y descubre más información sobre Google Cloud--
 
-***Precios de Google Cloud***
+**Precios de Google Cloud**
 
 - Google no tiene costos por adelantado.
 - Servicios de pago por uso, ni comisiones por cancelación. 
@@ -64,39 +64,40 @@ Dentro la variedad de productos y servicios dentro de la plataforma, vamos a men
 Varían según la familia, cada familia se selecciona para tipos específicos de cargas de trabajo. 
 En Compute Engine, se ofrecen los siguientes tipos de máquinas principales:
 
-**De uso general**
+- **De uso general**
 
 Ofrecen la mejor relación entre precio y rendimiento para una variedad de cargas de trabajo.
 
-**Máquinas E2 son VM**
+- **Máquinas E2 son VM**
 
 Con costo optimizado que ofrecen hasta 16 CPU virtuales con hasta 8 GB de memoria por CPU virtual,estas máquinas tienen una plataforma de CPU predefinida que ejecuta un procesador Intel o AMD EPYC Rome de segunda generación. 
 Las VM E2 proporcionan una variedad de recursos de procesamiento al menor precio disponible en Compute Engine, en especial cuando se combinan con los descuentos por compromiso de uso.
 
-**Máquinas N2**
+- **Máquinas N2**
 
 Ofrecen hasta 80 CPU virtuales, 8 GB de memoria por CPU virtual y están disponibles en las plataformas de CPU de Cascade Lake de Intel.
 
-**Máquinas N2D**
+- **Máquinas N2D**
 
 Ofrecen hasta 224 CPU virtuales y 8 GB de memoria por CPU virtual y están disponibles en las plataformas de AMD EPYC Rome de segunda generación.
 
-**Máquinas N1**
+- **Máquinas N1**
 
 Ofrecen hasta 96 CPU virtuales, 6.5 GB de memoria por CPU virtual y están disponibles en las plataformas de CPU Sandy Bridge, Ivy Bridge, Haswell, Broadwell y Skylake de Intel.
 
-**Máquinas con optimización de memoria**
+- **Máquinas con optimización de memoria**
 
 Son ideales para cargas de trabajo que requieren mucha memoria, ya que ofrecen más memoria por núcleo que otros tipos de máquinas (hasta 12 TB de memoria).
 
-**Máquinas con optimización de procesamiento**
+- **Máquinas con optimización de procesamiento**
 
 Ofrecen el mayor rendimiento por núcleo en Compute Engine y están optimizados para cargas de trabajo de procesamiento intensivo. Ofrece procesadores escalables Intel (Cascade Lake) y turbo de núcleo completo continuo de hasta 3.8 GHz.
 
 En las familias N1 y E2, se encuentran disponibles tipos de máquinas de núcleo compartido. Estos tipos de máquinas comparten un núcleo físico. Este puede ser un método rentable para ejecutar aplicaciones pequeñas que no requieren muchos recursos.
 
-**E2:** Los tipos de máquinas de núcleo compartido e2-micro, e2-small y e2-medium tienen 2 CPU virtuales disponibles para períodos breves de picos de actividad.
-**N1:** Los tipos de máquinas de núcleo compartido f1-micro y g1-small tienen hasta 1 CPU virtual disponible para períodos breves de picos de actividad.
+- **E2:** Los tipos de máquinas de núcleo compartido e2-micro, e2-small y e2-medium tienen 2 CPU virtuales disponibles para períodos breves de picos de actividad.
+
+- **N1:** Los tipos de máquinas de núcleo compartido f1-micro y g1-small tienen hasta 1 CPU virtual disponible para períodos breves de picos de actividad.
 
 
 ## Manual de Usuario
