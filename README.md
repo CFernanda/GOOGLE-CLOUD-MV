@@ -162,8 +162,8 @@ Al dar click en **Iniciar versión de prueba gratuita**  se abrirá una nueva ve
  ## Bibliografia
 
 * DoctorMetrics. (13 de Junio de 2018). Obtenido de https://www.doctormetrics.com/google-cloud-platform/#:~:text=potencial%20y%20versatilidad.-,Introducci%C3%B3n,como%20Youtube%20o%20Google%20Search.&text=Esta%20infraestructura%20se%20divide%20en%20regiones%20y%20zonas.
-* Ibermatica. (7 de mayo de 2019). Obtenido de https://www.ibermatica365.com/microsoft-azure-que-son-las-maquinas-virtuales/
-* GOOGLECLOUD.https://cloud.google.com/
+
+* GOOGLECLOUD(2020).https://cloud.google.com/
 
 
 
