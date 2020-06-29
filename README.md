@@ -125,13 +125,6 @@ Al dar click en **Iniciar versión de prueba gratuita**  se abrirá una nueva ve
 * Ibermatica. (7 de mayo de 2019). Obtenido de https://www.ibermatica365.com/microsoft-azure-que-son-las-maquinas-virtuales/
 * GOOGLECLOUD.https://cloud.google.com/
 
- 
- 
-
-
-
-
-- 
 
 
 
